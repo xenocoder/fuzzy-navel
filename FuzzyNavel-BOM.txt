@@ -1,0 +1,29 @@
+tPartlist
+
+Exported from FuzzyNavel.brd at 1/13/2014 8:20:49 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package       Library         Position (inch)       Orientation
+
++9V      +9V(T)         SQUARE        mb_supply       (0.425 0.2)           R0
+C1       100n           072X025       mb_caps-box     (0.875 0.125)         R180
+C2       220pF          050X030_050_1 mb_caps-ceramic (0.784 0.55)          R90
+C3       220n           072X035       mb_caps-box     (0.775 0.775)         R0
+C4       10uF           050_020_1     mb_caps-electro (1.05 0.85)           R0
+C5       47uF           050_020_1     mb_caps-electro (0.275 0.15)          R270
+D1       1N4001\        DO41-2        mb_diodes       (0.55 0.225)          R270
+DRIVE    A500k          16MM_PCB_PADS mb_pots         (0.65 0.925)          R180
+GND      GND(T)         SQUARE        mb_supply       (0.65 0.125)          R0
+IN       IN(T)          SQUARE        mb_supply       (1.075 0.125)         R0
+OUT      OUT(T)         SQUARE        mb_supply       (0.25 0.85)           R0
+Q1       2N3904         TO92-         mb_trans        (0.7 0.35)            R90
+Q2       BC109          TO92-         mb_trans        (0.575 0.575)         R270
+R1       1M             R0207/3       mb_resistors    (1.096 0.375)         R270
+R2       150k           R0207/3       mb_resistors    (0.9 0.475)           R270
+R3       10k            R0207/3       mb_resistors    (0.45 0.525)          R270
+R4       1k             R0207/3       mb_resistors    (1 0.475)             R90
+R5       82R            R0207/3       mb_resistors    (0.35 0.525)          R270
+R6       2k2            R0207/3       mb_resistors    (0.25 0.525)          R270
